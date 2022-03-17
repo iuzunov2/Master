@@ -1,0 +1,11 @@
+{
+    "service": {
+        "port": 10000
+    },
+    "db": {
+        "username": "Icko",
+        "password": "Testing111!",
+        "host": "kancelariskazabava.euknd.mongodb.net",
+        "dbname": "my_first_database"
+    }
+}
